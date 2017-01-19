@@ -1,0 +1,22 @@
+class IDLE:
+    pass
+
+class BALLRAISE:
+    def master():
+        def events():
+            demo
+            liftLeftWall
+            liftRightWall
+            lowerLeftWall
+            lowerRightWall
+            leftWall
+            rightWall
+        def values():
+            stepperPosition = uint32_t
+    def tablet():
+        def events():
+            finishedAction
+
+class OFF:
+    pass
+    
